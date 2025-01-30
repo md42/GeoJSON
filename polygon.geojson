@@ -1,0 +1,46 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              7.885,
+              54.1896
+            ],
+            [
+              7.917,
+              54.1896
+            ],
+            [
+              7.925,
+              54.177
+            ],
+            [
+              7.91,
+              54.1675
+            ],
+            [
+              7.882,
+              54.17
+            ],
+            [
+              7.875,
+              54.18
+            ],
+            [
+              7.885,
+              54.1896
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Boundary around Helgoland"
+      }
+    }
+  ]
+}
