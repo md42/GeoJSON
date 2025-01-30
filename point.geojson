@@ -1,0 +1,10 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-70.9091, -53.1638]
+  },
+  "properties": {
+    "name": "Punta Arenas, Chile"
+  }
+}
