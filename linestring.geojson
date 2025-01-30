@@ -1,0 +1,13 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [13.404954, 52.520008],  // Berlin, Germany
+      [-17.7767, 28.6836]      // La Palma, Canary Islands, Spain
+    ]
+  },
+  "properties": {
+    "name": "Route from Berlin to La Palma"
+  }
+}
